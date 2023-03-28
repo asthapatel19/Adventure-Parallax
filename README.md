@@ -1,4 +1,4 @@
-# Adventure-Parallex
+# Adventure-Parallax
 This is a website designed using parallax scrolling effect for Adventure sports enthusiasts.
 
 # Technologies Used
